@@ -4,6 +4,11 @@
 ## I'm a Software enthusiast, I really love everything related to code!
 
 Language and tools I manage: 
+![Alt text](![image](https://github.com/DiegoCarrillo32/DiegoCarrillo32/assets/61395884/016d75fc-977b-4653-82dc-2636394cd45c)
+ "JS Logo")
+ ![Alt text](![image](https://github.com/DiegoCarrillo32/DiegoCarrillo32/assets/61395884/017f6580-6dba-4926-ae4b-d55e066f0d6e)
+)
+ "JS Logo")
 
 
 <!--
