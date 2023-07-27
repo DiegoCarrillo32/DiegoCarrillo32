@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Diego Carrillo 👋
+
+## I'm currently pursuing a degree in Computer Engineer 
+## I'm a Software enthusiast, I really love everything related to code!
+
+Language and tools I manage: 
+
 
 <!--
 **DiegoCarrillo32/DiegoCarrillo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
