@@ -1,7 +1,9 @@
 ### Hi there, I'm Diego Carrillo 👋
 
 ## I'm currently pursuing a degree in Computer Engineer 
-## I'm a Software enthusiast, I really love everything related to code!
+# I'm a Software enthusiast, I really love everything related to code!
+# Some of the technlogies I handle are: React, Angular, Javascript, HTML, CSS, and python!
+
 
 
 <!--
