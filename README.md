@@ -4,8 +4,8 @@
 ### I'm a Software enthusiast, I really love everything related to code!
 ### Some of the technlogies I handle are: React, Angular, Javascript, HTML, CSS, and python!
 
-![Python Logo](https://github.com/DiegoCarrillo32/DiegoCarrillo32/blob/main/Python-logo-notext.svg.png)
-![React Logo](https://github.com/DiegoCarrillo32/DiegoCarrillo32/blob/main/React.svg.png)
+![Python Logo](https://github.com/DiegoCarrillo32/DiegoCarrillo32/blob/main/Python-logo-notext.svg.png =250x)
+![React Logo](https://github.com/DiegoCarrillo32/DiegoCarrillo32/blob/main/React.svg.png =250x)
 
 <!--
 **DiegoCarrillo32/DiegoCarrillo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
