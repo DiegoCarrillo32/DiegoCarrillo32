@@ -10,6 +10,6 @@
   <img src="https://github.com/DiegoCarrillo32/DiegoCarrillo32/blob/main/React.svg.png" width="100px" height="100px"/>  
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/DiegoCarrillo32?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
