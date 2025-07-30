@@ -13,6 +13,7 @@
 - 🌍 I'm based in Costa Rica and I love collaborating with international teams
 - 🧪 Into clean code, testing, and meaningful user experiences
 - 🏆 Finalist @ IBM Call for Code 2022 (Latin America)
+- 🌱 Huawei Seeds for the Future Alumni
 
 ---
 
